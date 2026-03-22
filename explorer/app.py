@@ -378,7 +378,7 @@ def build_country_heatmap():
     for country in countries:
         prompt = tmpl.format(country=country)
         acts   = collector.collect([prompt], seq_pos="last").to(device)
-        feats  = sae.encode(acts)[0].cpu().numpy()
+        feats  = sae.encode(acts)[0].cpu().detach().numpy()
         rows[country] = feats
 
     df = pd.DataFrame(rows).T
