@@ -1,0 +1,6 @@
+# run: pip install -r requirements_colab.txt
+transformer-lens
+einops
+gradio
+circuitsvis
+wandb

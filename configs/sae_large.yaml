@@ -1,0 +1,11 @@
+model_name: gpt2
+hook_layer: 3
+hook_point: hook_mlp_out
+d_model: 768
+dict_size: 4096
+l1_coeff: 5e-4
+lr: 5e-5
+batch_size: 4096
+n_steps: 100000
+dead_feature_revival_steps: 2000
+seed: 42
