@@ -22,3 +22,14 @@ validated through ablation.
 - L2 reconstruction loss
 - Task accuracy pre/post ablation
 - % dead features
+
+
+## 2024-03-22 — First successful SAE training
+
+- Activations: 4,656 vectors, layer 3 hook_mlp_out, GPT-2 Small
+- Config: dict_size=512, l1_coeff=0.5, lr=1e-4, steps=5000, batch=512
+- Results:
+  - L0: 33.5 / 512 (6.5% sparsity) ✓
+  - L2: 0.0125 (good reconstruction) ✓
+  - Dead features: 0% ✓
+- Note: l1_coeff=0.5 is high — revisit when scaling to dict_size=4096
