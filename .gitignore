@@ -1,9 +1,6 @@
-data/cached_activations/
-results/
 *.pt
 *.pkl
 __pycache__/
 .ipynb_checkpoints/
 *.egg-info/
 .env
-wandb/

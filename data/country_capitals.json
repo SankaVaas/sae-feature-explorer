@@ -1,20 +1,65 @@
 {
+  "prompt_template": "France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. {country}:",
   "pairs": [
-    {"country": "France", "capital": "Paris"},
-    {"country": "Germany", "capital": "Berlin"},
-    {"country": "Japan", "capital": "Tokyo"},
-    {"country": "Brazil", "capital": "Brasília"},
-    {"country": "Australia", "capital": "Canberra"},
-    {"country": "Egypt", "capital": "Cairo"},
-    {"country": "India", "capital": "New Delhi"},
-    {"country": "Canada", "capital": "Ottawa"},
-    {"country": "Argentina", "capital": "Buenos Aires"},
-    {"country": "Nigeria", "capital": "Abuja"},
-    {"country": "Italy", "capital": "Rome"},
-    {"country": "Spain", "capital": "Madrid"},
-    {"country": "China", "capital": "Beijing"},
-    {"country": "Russia", "capital": "Moscow"},
-    {"country": "Mexico", "capital": "Mexico City"}
-  ],
-  "prompt_template": "The capital of {country} is"
+    {
+      "country": "France",
+      "capital": "Paris"
+    },
+    {
+      "country": "Germany",
+      "capital": "Berlin"
+    },
+    {
+      "country": "Japan",
+      "capital": "Tokyo"
+    },
+    {
+      "country": "Brazil",
+      "capital": "Bras\u00edlia"
+    },
+    {
+      "country": "Australia",
+      "capital": "Sydney"
+    },
+    {
+      "country": "Egypt",
+      "capital": "Cairo"
+    },
+    {
+      "country": "India",
+      "capital": "New Delhi"
+    },
+    {
+      "country": "Canada",
+      "capital": "Ottawa"
+    },
+    {
+      "country": "Argentina",
+      "capital": "Buenos Aires"
+    },
+    {
+      "country": "Nigeria",
+      "capital": "Abuja"
+    },
+    {
+      "country": "Italy",
+      "capital": "Rome"
+    },
+    {
+      "country": "Spain",
+      "capital": "Madrid"
+    },
+    {
+      "country": "China",
+      "capital": "Beijing"
+    },
+    {
+      "country": "Russia",
+      "capital": "Moscow"
+    },
+    {
+      "country": "Mexico",
+      "capital": "Mexico City"
+    }
+  ]
 }

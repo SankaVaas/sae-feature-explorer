@@ -1,0 +1,19 @@
+{
+  "230": "fluent english text",
+  "421": "general english syntax",
+  "226": "capital query cluster",
+  "493": "capital query cluster",
+  "468": "capital query \u2014 selective",
+  "396": "european city/place name",
+  "434": "place name entity",
+  "490": "factual recall query",
+  "410": "country-capital association",
+  "49": "proper noun location",
+  "250": "world geography",
+  "28": "declarative fact structure",
+  "267": "sentence structure",
+  "494": "named entity",
+  "95": "anglophone country",
+  "129": "country context",
+  "11": "non-european country"
+}

@@ -1,0 +1,513 @@
+feature_idx,label,max_activation,mean_activation,activation_freq,is_task_feature,top_prompt
+0,,2.5568597316741943,1.1133536100387573,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+1,,3.1199560165405273,1.254548192024231,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+2,,1.7276040315628052,0.9834365844726562,0.48,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Nigeria:
+3,,15.723237037658691,8.356417655944824,0.76,False,The quick brown fox jumps over the lazy dog
+4,,2.4652233123779297,1.623567819595337,0.72,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+5,,21.795848846435547,13.119215965270996,0.68,False,Japan has a rich cultural history
+6,,20.59136390686035,11.28459644317627,0.72,False,The quick brown fox jumps over the lazy dog
+7,,7.252019882202148,5.483447074890137,0.64,False,Japan has a rich cultural history
+8,,3.587522506713867,2.2549850940704346,0.76,False,Photosynthesis converts sunlight into energy
+9,,2.167135715484619,1.420539379119873,0.72,False,Photosynthesis converts sunlight into energy
+10,,3.486497640609741,1.68982994556427,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+11,,3.897566080093384,1.7594469785690308,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+12,,2.539062738418579,1.1454391479492188,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Nigeria:
+13,,1.5978446006774902,0.921587347984314,0.64,False,The Amazon River is the largest river
+14,,2.5654585361480713,1.3044238090515137,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+15,,2.1039698123931885,1.0464764833450317,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Italy:
+16,,2.4848411083221436,1.4596364498138428,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+17,,15.120450973510742,8.640822410583496,0.72,False,The quick brown fox jumps over the lazy dog
+18,,3.7387497425079346,2.2427990436553955,0.72,False,The quick brown fox jumps over the lazy dog
+19,,5.960792064666748,2.1707615852355957,0.76,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+20,,2.308990716934204,0.7363898158073425,0.52,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+21,,3.212679386138916,1.1518092155456543,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+22,,1.3737531900405884,0.7372647523880005,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+23,,1.9390100240707397,1.009992003440857,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+24,,2.167635440826416,1.108781337738037,0.76,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Nigeria:
+25,,3.3886258602142334,1.800731897354126,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Nigeria:
+26,,2.838610887527466,2.097040891647339,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+27,,1.6525969505310059,0.499051034450531,0.72,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+28,,5.133002758026123,2.3934080600738525,0.2,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+29,,2.602212905883789,1.544898271560669,0.2,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+30,,3.94356632232666,1.3620326519012451,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+31,,3.336124897003174,1.1737022399902344,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. India:
+32,,21.83914566040039,11.619619369506836,0.76,False,The quick brown fox jumps over the lazy dog
+33,,2.631265640258789,0.6980913281440735,0.72,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+34,,2.3985002040863037,1.2754963636398315,0.76,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+35,,17.71770477294922,8.925344467163086,0.8,False,The quick brown fox jumps over the lazy dog
+36,,5.568612575531006,0.9294883012771606,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+37,,6.192008972167969,1.2634131908416748,0.52,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+38,,3.0117664337158203,1.9734411239624023,0.76,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+39,,4.9892401695251465,1.9965345859527588,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+40,,5.883970260620117,3.2854061126708984,0.12,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+41,,1.9908826351165771,1.213944911956787,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+42,,1.2107677459716797,0.39389768242836,0.72,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+43,,1.3162524700164795,0.85062575340271,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+44,,2.5924293994903564,1.3780072927474976,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Canada:
+45,,3.733023166656494,1.338775396347046,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+46,,2.220034122467041,0.8622701168060303,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. India:
+47,,1.6224085092544556,0.9832197427749634,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+48,,5.732424736022949,1.6658732891082764,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+49,,3.0281596183776855,1.5993638038635254,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Mexico:
+50,,3.23337459564209,1.266747236251831,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+51,,3.6033883094787598,2.4310929775238037,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+52,,5.057947158813477,2.927816152572632,0.76,False,Paris is a beautiful city in France
+53,,4.105762958526611,2.4508235454559326,0.72,False,The quick brown fox jumps over the lazy dog
+54,,1.9464828968048096,0.4262223243713379,0.8,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+55,,9.86284065246582,6.539310455322266,0.64,False,France is a country in Western Europe
+56,,3.945807695388794,1.3081551790237427,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+57,,2.6631345748901367,1.5980767011642456,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+58,,11.20150375366211,8.636550903320312,0.6,False,The quick brown fox jumps over the lazy dog
+59,,1.8752872943878174,0.6020541191101074,0.76,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+60,,2.211005926132202,1.0660440921783447,0.2,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+61,,2.3159613609313965,1.3455185890197754,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Nigeria:
+62,,4.134078025817871,2.754904270172119,0.64,False,The quick brown fox jumps over the lazy dog
+63,,13.135331153869629,7.032498836517334,0.76,False,The quick brown fox jumps over the lazy dog
+64,,6.0430755615234375,1.9543688297271729,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+65,,24.998531341552734,15.045402526855469,0.68,False,Paris is a beautiful city in France
+66,,13.96075439453125,7.853474140167236,0.72,False,France is a country in Western Europe
+67,,3.8460140228271484,2.9955906867980957,0.64,False,Shakespeare wrote thirty seven plays
+68,,2.331212282180786,0.5129472613334656,0.56,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+69,,23.000925064086914,12.972509384155273,0.72,False,The quick brown fox jumps over the lazy dog
+70,,4.788448810577393,1.4881662130355835,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+71,,5.719390392303467,3.308281898498535,0.72,False,The quick brown fox jumps over the lazy dog
+72,,2.600019693374634,1.122209906578064,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+73,,11.055058479309082,6.618987083435059,0.68,False,The quick brown fox jumps over the lazy dog
+74,,5.240390777587891,1.9983928203582764,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+75,,4.778242588043213,1.4191863536834717,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+76,,2.675095319747925,1.210862636566162,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Canada:
+77,,3.8695547580718994,2.5065033435821533,0.68,False,The Amazon River is the largest river
+78,,2.055176258087158,0.9213388562202454,0.76,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Canada:
+79,,2.1224007606506348,0.7828621864318848,0.72,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+80,,3.172396183013916,1.5172898769378662,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Nigeria:
+81,,4.386467933654785,1.840131163597107,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+82,,26.794946670532227,14.432565689086914,0.76,False,The quick brown fox jumps over the lazy dog
+83,,1.0013798475265503,0.5114200115203857,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+84,,7.28001594543457,5.2784318923950195,0.16,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+85,,4.687426567077637,2.369929790496826,0.2,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+86,,23.428720474243164,14.317684173583984,0.64,False,The quick brown fox jumps over the lazy dog
+87,,2.157768964767456,0.6047059893608093,0.72,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Italy:
+88,,2.3872153759002686,1.5131142139434814,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+89,,1.3782707452774048,0.619963526725769,0.16,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+90,,15.18185806274414,8.36410903930664,0.76,False,France is a country in Western Europe
+91,,7.5937604904174805,4.42421293258667,0.72,False,The Amazon River is the largest river
+92,,2.8737034797668457,1.3749229907989502,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Argentina:
+93,,5.010452747344971,2.2191152572631836,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+94,,4.158724784851074,0.82601398229599,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+95,,2.711012840270996,0.6862491369247437,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+96,,3.8435332775115967,2.6220624446868896,0.68,False,Photosynthesis converts sunlight into energy
+97,,2.6453166007995605,1.119114875793457,0.72,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Italy:
+98,,2.963797092437744,1.754834532737732,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Nigeria:
+99,,2.614041805267334,1.6857547760009766,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Canada:
+100,,13.048590660095215,7.781519412994385,0.72,False,France is a country in Western Europe
+101,,14.22679615020752,8.09457015991211,0.72,False,France is a country in Western Europe
+102,,2.8053805828094482,2.0657527446746826,0.68,False,Shakespeare wrote thirty seven plays
+103,,1.690079689025879,0.8929983377456665,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+104,,28.645584106445312,15.876471519470215,0.72,False,The quick brown fox jumps over the lazy dog
+105,,2.4335927963256836,0.5451058149337769,0.56,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Brazil:
+106,,4.058668613433838,2.1861000061035156,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+107,,2.096601724624634,0.6397217512130737,0.8,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+108,,2.0530176162719727,0.8232864141464233,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Mexico:
+109,,5.724616527557373,3.545586585998535,0.68,False,The quick brown fox jumps over the lazy dog
+110,,1.8957245349884033,1.2170124053955078,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+111,,0.6065155267715454,0.40398359298706055,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+112,,10.450063705444336,5.418618679046631,0.8,False,The quick brown fox jumps over the lazy dog
+113,,5.255171298980713,2.0224452018737793,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+114,,4.10235595703125,2.369791269302368,0.16,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+115,,3.8204212188720703,1.4912502765655518,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+116,,1.8324013948440552,0.35463306307792664,0.72,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+117,,3.244840621948242,1.997642993927002,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Canada:
+118,,9.665748596191406,5.648160457611084,0.68,False,France is a country in Western Europe
+119,,3.2173686027526855,1.4064016342163086,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Nigeria:
+120,,27.734689712524414,14.566206932067871,0.76,False,France is a country in Western Europe
+121,,85.99315643310547,43.803977966308594,0.76,False,The quick brown fox jumps over the lazy dog
+122,,27.733158111572266,15.65031623840332,0.72,False,The quick brown fox jumps over the lazy dog
+123,,1.6728845834732056,1.1233797073364258,0.8,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Mexico:
+124,,12.62458324432373,7.510914325714111,0.72,False,The quick brown fox jumps over the lazy dog
+125,,3.636016607284546,1.9567534923553467,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Nigeria:
+126,,3.280050754547119,1.5681235790252686,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+127,,3.9360766410827637,2.509737968444824,0.72,False,The Amazon River is the largest river
+128,,6.613300323486328,3.714048385620117,0.68,False,Germany is known for its engineering
+129,,7.639611721038818,4.607223987579346,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+130,,2.042689800262451,1.4208145141601562,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Nigeria:
+131,,3.848520040512085,1.2068711519241333,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+132,,2.9283766746520996,1.089625597000122,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+133,,1.6677137613296509,0.9582952857017517,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Italy:
+134,,23.693735122680664,15.584990501403809,0.64,False,France is a country in Western Europe
+135,,97.95875549316406,57.47052764892578,0.68,False,The Amazon River is the largest river
+136,,3.684532880783081,1.0794379711151123,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+137,,19.525318145751953,11.703502655029297,0.68,False,Paris is a beautiful city in France
+138,,1.8716635704040527,0.6982882618904114,0.44,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+139,,9.39425277709961,2.4461593627929688,0.32,True,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+140,,8.674609184265137,5.882500648498535,0.64,False,France is a country in Western Europe
+141,,4.694159984588623,1.4672268629074097,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+142,,27.282779693603516,15.323447227478027,0.72,False,France is a country in Western Europe
+143,,2.0987696647644043,1.4117252826690674,0.72,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+144,,3.400712013244629,1.6285767555236816,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+145,,2.299633264541626,0.9963890314102173,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+146,,6.011621952056885,2.6671807765960693,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+147,,3.839052200317383,1.199205994606018,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+148,,3.3940978050231934,1.7936087846755981,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+149,,23.657339096069336,13.0601224899292,0.72,False,France is a country in Western Europe
+150,,6.858458518981934,2.2353265285491943,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+151,,3.413264036178589,1.5340677499771118,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+152,,4.6338725090026855,2.096792697906494,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+153,,4.132070064544678,1.907965898513794,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+154,,2.2364442348480225,1.3159414529800415,0.84,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+155,,24.173076629638672,14.32640266418457,0.68,False,The quick brown fox jumps over the lazy dog
+156,,2.8115854263305664,1.6434077024459839,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+157,,2.642886161804199,1.7190457582473755,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+158,,1.708594799041748,0.6074133515357971,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Mexico:
+159,,3.366168260574341,1.4214868545532227,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+160,,2.7416205406188965,0.8147370219230652,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+161,,2.5823283195495605,1.2108827829360962,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. India:
+162,,4.403033256530762,1.855970025062561,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+163,,1.8660088777542114,0.7456023693084717,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+164,,3.8686628341674805,0.6966822147369385,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+165,,19.32220458984375,10.670053482055664,0.72,False,The quick brown fox jumps over the lazy dog
+166,,22.28225326538086,10.919184684753418,0.84,False,France is a country in Western Europe
+167,,2.2130324840545654,1.4494751691818237,0.72,False,The Amazon River is the largest river
+168,,1.1646491289138794,0.3737984895706177,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+169,,9.469686508178711,6.185651779174805,0.68,False,Shakespeare wrote thirty seven plays
+170,,2.5436229705810547,1.4355788230895996,0.72,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+171,,4.568557262420654,1.9624106884002686,0.2,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+172,,1.8684591054916382,1.1126455068588257,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+173,,2.3368642330169678,1.1708728075027466,0.72,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. India:
+174,,1.2746756076812744,0.7672295570373535,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Italy:
+175,,5.337532997131348,1.4415678977966309,0.44,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+176,,1.1834677457809448,0.3346290588378906,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Brazil:
+177,,2.1079113483428955,0.9964660406112671,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+178,,2.54801607131958,1.5650054216384888,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+179,,2.7280349731445312,0.7905161380767822,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+180,,1.7662255764007568,0.8141438364982605,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Spain:
+181,,15.36227798461914,7.699170112609863,0.8,False,France is a country in Western Europe
+182,,18.868091583251953,11.254518508911133,0.68,False,The quick brown fox jumps over the lazy dog
+183,,1.5823136568069458,0.8605218529701233,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. India:
+184,,2.184750556945801,1.352895975112915,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+185,,1.9243919849395752,1.0035738945007324,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Italy:
+186,,2.7032113075256348,1.8764241933822632,0.72,False,The Amazon River is the largest river
+187,,1.7946563959121704,1.1035739183425903,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+188,,5.617728233337402,3.642066240310669,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+189,,4.0575947761535645,1.0615482330322266,0.48,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+190,,24.147424697875977,11.95180892944336,0.8,False,France is a country in Western Europe
+191,,4.638601779937744,1.0330008268356323,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+192,,3.6700987815856934,1.3976542949676514,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+193,,41.05646896362305,22.724308013916016,0.72,False,The quick brown fox jumps over the lazy dog
+194,,5.577182292938232,2.3020517826080322,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+195,,5.105506420135498,1.8710260391235352,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. India:
+196,,2.896512985229492,1.0380661487579346,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+197,,5.591802597045898,2.583655595779419,0.36,True,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Nigeria:
+198,,2.0788440704345703,1.3278789520263672,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Italy:
+199,,7.933778762817383,3.031867027282715,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+200,,2.8495371341705322,1.265864610671997,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Canada:
+201,,9.725008010864258,4.041829586029053,0.28,True,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+202,,2.6977319717407227,1.0276694297790527,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Brazil:
+203,,3.877295732498169,1.8006620407104492,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+204,,1.2667804956436157,0.6119787096977234,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Argentina:
+205,,3.153531312942505,2.5856001377105713,0.6,False,France is a country in Western Europe
+206,,2.995879650115967,1.4108630418777466,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Mexico:
+207,,4.0462965965271,1.602785348892212,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+208,,24.086780548095703,13.356122970581055,0.72,False,France is a country in Western Europe
+209,,20.7625789642334,12.186071395874023,0.68,False,France is a country in Western Europe
+210,,3.0728886127471924,0.9815208315849304,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+211,,8.093165397644043,5.256985187530518,0.68,False,Photosynthesis converts sunlight into energy
+212,,3.5114760398864746,1.4852211475372314,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. India:
+213,,3.4445881843566895,1.3686996698379517,0.44,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. India:
+214,,21.2181339263916,12.474825859069824,0.68,False,The quick brown fox jumps over the lazy dog
+215,,2.2044975757598877,1.0649998188018799,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Spain:
+216,,1.2238109111785889,0.8130214214324951,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+217,,4.738032817840576,2.892554998397827,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+218,,3.106928586959839,2.021754741668701,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Mexico:
+219,,2.6653249263763428,1.0191590785980225,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+220,,4.397856712341309,1.7441273927688599,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+221,,4.060429573059082,2.037830352783203,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+222,,13.43880558013916,8.272750854492188,0.68,False,France is a country in Western Europe
+223,,2.359653949737549,1.7455798387527466,0.64,False,Paris is a beautiful city in France
+224,,2.4696855545043945,1.4981586933135986,0.76,False,Shakespeare wrote thirty seven plays
+225,,2.1409497261047363,0.7150554656982422,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+226,,13.773932456970215,7.984457015991211,0.72,False,Paris is a beautiful city in France
+227,,4.446069717407227,2.053636074066162,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+228,,27.031309127807617,14.363997459411621,0.76,False,Paris is a beautiful city in France
+229,,8.874332427978516,2.94334077835083,0.2,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+230,,3.786233425140381,1.4692646265029907,0.76,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Mexico:
+231,,3.38814377784729,0.9786206483840942,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Italy:
+232,,4.8848772048950195,1.370370864868164,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+233,,34.35506057739258,20.20086669921875,0.68,False,France is a country in Western Europe
+234,,3.9427177906036377,1.753576397895813,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+235,,6.1330156326293945,2.3743228912353516,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+236,,1.8796602487564087,0.8531652092933655,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+237,,2.660881996154785,1.1629897356033325,0.76,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Spain:
+238,,1.8762731552124023,1.2159596681594849,0.76,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+239,,30.624008178710938,17.349002838134766,0.72,False,France is a country in Western Europe
+240,,3.103586435317993,1.403631567955017,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+241,,3.8584353923797607,2.171600580215454,0.76,False,Germany is known for its engineering
+242,,4.474638938903809,1.1131494045257568,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+243,,4.11688232421875,3.068024158477783,0.64,False,The Amazon River is the largest river
+244,,4.269006252288818,2.287585496902466,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+245,,2.05749249458313,0.5792295932769775,0.44,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+246,,6.501278877258301,4.066329479217529,0.76,False,France is a country in Western Europe
+247,,3.060781240463257,1.725368857383728,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+248,,2.5132627487182617,2.100862979888916,0.6,False,Berlin has a vibrant arts scene
+249,,3.339305877685547,1.6895164251327515,0.2,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+250,,3.703300714492798,1.6853892803192139,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+251,,2.2060980796813965,1.3389405012130737,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Italy:
+252,,3.996016502380371,1.71424400806427,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. India:
+253,,2.902339458465576,1.5570160150527954,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+254,,1.73908531665802,0.6486291885375977,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Italy:
+255,,3.1138038635253906,1.996612787246704,0.2,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+256,,22.480382919311523,14.295406341552734,0.64,False,France is a country in Western Europe
+257,,2.917646646499634,1.1049318313598633,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+258,,1.5032379627227783,0.6122815608978271,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+259,,4.361607074737549,2.587069272994995,0.72,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+260,,25.557140350341797,13.464215278625488,0.76,False,France is a country in Western Europe
+261,,2.6076149940490723,0.8962593078613281,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Mexico:
+262,,11.094966888427734,6.875704765319824,0.68,False,France is a country in Western Europe
+263,,3.7785613536834717,1.9225975275039673,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+264,,1.4950751066207886,0.592424750328064,0.72,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Spain:
+265,,4.293277263641357,2.2374212741851807,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+266,,3.341918706893921,1.4469290971755981,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+267,,18.772571563720703,10.048552513122559,0.76,False,Paris is a beautiful city in France
+268,,3.177938938140869,1.9192399978637695,0.16,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+269,,1.7144830226898193,0.8908870816230774,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+270,,3.827322244644165,1.9873640537261963,0.4,True,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Italy:
+271,,5.225526332855225,2.9649405479431152,0.2,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+272,,3.5079293251037598,1.310940146446228,0.8,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+273,,2.169647693634033,1.23576819896698,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Argentina:
+274,,3.5501232147216797,2.063462972640991,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Nigeria:
+275,,5.0199971199035645,3.726315975189209,0.68,False,France is a country in Western Europe
+276,,27.90673065185547,15.376087188720703,0.72,False,The quick brown fox jumps over the lazy dog
+277,,1.3093347549438477,0.9331949353218079,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+278,,1.3573253154754639,0.6263057589530945,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+279,,2.3743717670440674,1.5849186182022095,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+280,,6.330631256103516,4.345834255218506,0.72,False,The quick brown fox jumps over the lazy dog
+281,,3.3011903762817383,1.3656672239303589,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+282,,2.968898057937622,0.9906699657440186,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+283,,9.662741661071777,6.02194356918335,0.68,False,France is a country in Western Europe
+284,,2.4417474269866943,0.9606986045837402,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+285,,4.09946346282959,1.4174091815948486,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+286,,19.119340896606445,11.290709495544434,0.68,False,Paris is a beautiful city in France
+287,,1.9745490550994873,0.7028553485870361,0.76,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Italy:
+288,,4.70990514755249,1.8703895807266235,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+289,,2.918175220489502,0.7393810749053955,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Italy:
+290,,2.3812155723571777,1.3818656206130981,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+291,,7.701502323150635,3.735074520111084,0.16,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+292,,3.5197794437408447,1.3405746221542358,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+293,,4.866389751434326,2.4264919757843018,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+294,,9.848275184631348,3.6658551692962646,0.24,True,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+295,,5.002236366271973,3.3861050605773926,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+296,,3.32963490486145,0.7353869676589966,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+297,,1.896131157875061,0.7368239164352417,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+298,,4.642482280731201,2.0053961277008057,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+299,,19.929800033569336,11.228482246398926,0.72,False,The quick brown fox jumps over the lazy dog
+300,,4.453997611999512,2.492480754852295,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+301,,2.1841237545013428,0.9127500653266907,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+302,,6.206124305725098,2.549346446990967,0.2,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+303,,3.242230176925659,1.1157540082931519,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+304,,5.0912580490112305,3.6577367782592773,0.44,True,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Mexico:
+305,,18.454341888427734,9.924102783203125,0.76,False,France is a country in Western Europe
+306,,1.7770909070968628,0.7389534115791321,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Brazil:
+307,,14.18459701538086,8.379953384399414,0.72,False,The quick brown fox jumps over the lazy dog
+308,,4.106496810913086,2.185755968093872,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+309,,15.335406303405762,8.608527183532715,0.72,False,France is a country in Western Europe
+310,,7.410587787628174,4.190215110778809,0.8,False,France is a country in Western Europe
+311,,0.9677283763885498,0.6061264872550964,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+312,,2.371129274368286,1.5419631004333496,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Brazil:
+313,,3.2525336742401123,0.949224591255188,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+314,,3.6462249755859375,1.852071762084961,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+315,,6.7976274490356445,5.087600231170654,0.16,True,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+316,,8.757270812988281,2.454998731613159,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+317,,3.245586395263672,1.8031940460205078,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+318,,2.6200404167175293,1.2765281200408936,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Brazil:
+319,,17.298686981201172,12.05827808380127,0.6,False,France is a country in Western Europe
+320,,2.662005662918091,1.36868155002594,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Brazil:
+321,,5.973306179046631,2.6121091842651367,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+322,,29.55927276611328,17.24222183227539,0.68,False,The quick brown fox jumps over the lazy dog
+323,,3.2493975162506104,1.560631275177002,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Canada:
+324,,1.9611833095550537,0.9509559273719788,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Canada:
+325,,2.4934115409851074,1.0582586526870728,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+326,,20.316225051879883,10.685498237609863,0.76,False,France is a country in Western Europe
+327,,2.549753427505493,1.6348800659179688,0.2,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Canada:
+328,,7.038750648498535,4.279926300048828,0.68,False,France is a country in Western Europe
+329,,5.564114093780518,4.2043914794921875,0.64,False,The quick brown fox jumps over the lazy dog
+330,,0.4230448007583618,0.2827416658401489,0.6,False,Germany is known for its engineering
+331,,2.219796895980835,0.7713797092437744,0.72,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Argentina:
+332,,1.4056305885314941,0.6516915559768677,0.16,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Canada:
+333,,2.4841184616088867,0.8230828642845154,0.44,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+334,,4.502568244934082,1.5593147277832031,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+335,,3.5460011959075928,1.2062125205993652,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+336,,5.134364604949951,1.7908753156661987,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+337,,4.42399787902832,1.1928540468215942,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+338,,5.674926280975342,1.9245784282684326,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+339,,3.8003311157226562,2.1052565574645996,0.2,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+340,,12.194968223571777,6.695693492889404,0.76,False,The quick brown fox jumps over the lazy dog
+341,,1.9758577346801758,0.5475828647613525,0.76,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Mexico:
+342,,7.1370463371276855,5.32005500793457,0.6,False,France is a country in Western Europe
+343,,4.2853899002075195,0.5874994397163391,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+344,,14.846634864807129,8.308114051818848,0.72,False,France is a country in Western Europe
+345,,1.8664106130599976,0.7399816513061523,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+346,,6.6752142906188965,5.12185001373291,0.6,False,The Amazon River is the largest river
+347,,29.876453399658203,17.6922664642334,0.68,False,France is a country in Western Europe
+348,,5.186896324157715,2.228550672531128,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+349,,8.343057632446289,4.959285736083984,0.68,False,The quick brown fox jumps over the lazy dog
+350,,3.9944252967834473,1.3969887495040894,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+351,,3.0895864963531494,1.18804931640625,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Nigeria:
+352,,17.686513900756836,10.500838279724121,0.68,False,France is a country in Western Europe
+353,,23.472923278808594,14.013429641723633,0.68,False,France is a country in Western Europe
+354,,1.264968752861023,0.698777437210083,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+355,,5.672117710113525,4.046897888183594,0.64,False,The quick brown fox jumps over the lazy dog
+356,,2.19822096824646,0.9396771788597107,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+357,,3.3446106910705566,0.9160545468330383,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+358,,1.897924542427063,1.1731808185577393,0.68,False,The quick brown fox jumps over the lazy dog
+359,,1.4362460374832153,0.8602475523948669,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Brazil:
+360,,2.1932120323181152,1.0564754009246826,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+361,,3.806704521179199,1.5389920473098755,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+362,,4.909011363983154,3.9287848472595215,0.6,False,France is a country in Western Europe
+363,,6.8833489418029785,4.620784759521484,0.64,False,Germany is known for its engineering
+364,,2.196681022644043,1.5572246313095093,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+365,,2.236600637435913,1.2316060066223145,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Canada:
+366,,2.991424322128296,1.2376381158828735,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Spain:
+367,,2.0961225032806396,0.9170348644256592,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+368,,3.1610827445983887,2.510591983795166,0.6,False,Water boils at one hundred degrees Celsius
+369,,1.4207828044891357,0.5187361240386963,0.72,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Nigeria:
+370,,2.093940258026123,0.8033934831619263,0.56,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Mexico:
+371,,25.982513427734375,15.435094833374023,0.68,False,France is a country in Western Europe
+372,,3.3982064723968506,2.236748456954956,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+373,,2.131279230117798,0.6975272297859192,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+374,,5.378715991973877,1.8382776975631714,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+375,,5.068472862243652,1.763901948928833,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+376,,16.98447036743164,11.472530364990234,0.6,False,France is a country in Western Europe
+377,,19.86387062072754,10.333796501159668,0.76,False,France is a country in Western Europe
+378,,15.571030616760254,8.820385932922363,0.72,False,The quick brown fox jumps over the lazy dog
+379,,3.3672664165496826,1.4923574924468994,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+380,,4.763779163360596,2.3056154251098633,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+381,,4.3886189460754395,1.5124964714050293,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Spain:
+382,,2.230506420135498,0.6651200652122498,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+383,,3.0520787239074707,2.0582547187805176,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+384,,3.1998660564422607,1.258923053741455,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+385,,8.478525161743164,3.4754347801208496,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+386,,30.105960845947266,17.576650619506836,0.68,False,The quick brown fox jumps over the lazy dog
+387,,2.979448080062866,1.2104922533035278,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+388,,2.2187397480010986,0.9382206797599792,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. India:
+389,,3.188554286956787,1.0649919509887695,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Mexico:
+390,,2.536463975906372,1.5893704891204834,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Italy:
+391,,5.169943332672119,3.4981298446655273,0.64,False,Photosynthesis converts sunlight into energy
+392,,24.28657341003418,14.641197204589844,0.68,False,The quick brown fox jumps over the lazy dog
+393,,2.5279688835144043,1.1760674715042114,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+394,,2.8500747680664062,1.04720938205719,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. India:
+395,,3.172903537750244,1.656376838684082,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Canada:
+396,,3.27876353263855,0.5884299278259277,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+397,,2.6570231914520264,1.5148797035217285,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Nigeria:
+398,,2.2188727855682373,1.1611697673797607,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. India:
+399,,14.874140739440918,9.168249130249023,0.68,False,France is a country in Western Europe
+400,,27.170377731323242,18.355785369873047,0.6,False,France is a country in Western Europe
+401,,2.1834516525268555,1.100272297859192,0.16,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+402,,1.8803393840789795,1.1414422988891602,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Spain:
+403,,1.5430423021316528,0.4155309200286865,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+404,,1.2027040719985962,0.4302980601787567,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Canada:
+405,,2.3525617122650146,0.8172909021377563,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+406,,3.1454169750213623,1.3673756122589111,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+407,,2.5626814365386963,1.687341570854187,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. India:
+408,,4.786513328552246,1.7192188501358032,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+409,,1.5674792528152466,0.6692864298820496,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+410,,0.7964704632759094,0.38614514470100403,0.76,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+411,,2.2691588401794434,0.7281701564788818,0.52,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+412,,4.6454973220825195,1.2686985731124878,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+413,,1.7913918495178223,1.0702621936798096,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+414,,1.9401267766952515,1.0724356174468994,0.72,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Argentina:
+415,,23.9858455657959,13.335094451904297,0.72,False,France is a country in Western Europe
+416,,7.230974197387695,1.4163790941238403,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+417,,3.6253607273101807,1.266298770904541,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Nigeria:
+418,,18.294673919677734,9.885738372802734,0.76,False,France is a country in Western Europe
+419,,1.5545289516448975,0.7963231205940247,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. India:
+420,,2.1089417934417725,1.4260939359664917,0.68,False,The quick brown fox jumps over the lazy dog
+421,,4.520028591156006,1.5625030994415283,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. India:
+422,,20.403406143188477,11.49431037902832,0.72,False,France is a country in Western Europe
+423,,2.5062155723571777,0.9945337176322937,0.84,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+424,,4.357630729675293,1.4011937379837036,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+425,,3.4782707691192627,1.6097030639648438,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+426,,2.45794415473938,1.3402494192123413,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Canada:
+427,,1.8416187763214111,0.9800606966018677,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+428,,2.7384190559387207,1.1740854978561401,0.44,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. India:
+429,,8.534286499023438,6.219531536102295,0.64,False,The quick brown fox jumps over the lazy dog
+430,,2.990107297897339,0.9585098624229431,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+431,,3.72204852104187,1.5950431823730469,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+432,,8.391711235046387,3.9692904949188232,0.76,False,The quick brown fox jumps over the lazy dog
+433,,2.5760226249694824,0.9626765251159668,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Spain:
+434,,2.183760404586792,1.289875864982605,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+435,,2.119750499725342,0.9493558406829834,0.72,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Australia:
+436,,3.170806646347046,1.3370263576507568,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+437,,19.45941734313965,12.628995895385742,0.64,False,France is a country in Western Europe
+438,,3.7814977169036865,1.1127362251281738,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+439,,7.391139984130859,4.5408735275268555,0.68,False,Paris is a beautiful city in France
+440,,2.0739519596099854,0.835058867931366,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+441,,5.237585067749023,2.1675832271575928,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+442,,2.427262306213379,1.2789150476455688,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. India:
+443,,4.467883110046387,1.902902603149414,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+444,,2.058432102203369,0.9391050934791565,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+445,,2.9234158992767334,1.4715709686279297,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+446,,4.027857303619385,1.7381130456924438,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+447,,17.69546890258789,9.181386947631836,0.8,False,The quick brown fox jumps over the lazy dog
+448,,2.330571413040161,1.3457982540130615,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Argentina:
+449,,5.084453582763672,2.8894340991973877,0.76,False,Water boils at one hundred degrees Celsius
+450,,5.055365085601807,3.06233811378479,0.76,False,France is a country in Western Europe
+451,,2.6794819831848145,1.5337426662445068,0.72,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+452,,1.403406023979187,0.5901200771331787,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+453,,3.843822956085205,1.3869390487670898,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+454,,2.6808691024780273,0.9625576734542847,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+455,,4.2311930656433105,1.9574034214019775,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+456,,15.986785888671875,9.44369888305664,0.72,False,France is a country in Western Europe
+457,,3.5689280033111572,0.6616322994232178,0.64,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+458,,2.03535532951355,1.216045618057251,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Mexico:
+459,,2.2611536979675293,1.1780318021774292,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+460,,3.1581153869628906,0.9694536328315735,0.32,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+461,,2.2624685764312744,1.093874454498291,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+462,,3.81252121925354,2.056259870529175,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+463,,1.9697412252426147,0.8106805682182312,0.2,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Mexico:
+464,,3.724716901779175,1.1267898082733154,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+465,,5.377621650695801,2.9484786987304688,0.76,False,Shakespeare wrote thirty seven plays
+466,,27.274250030517578,18.457904815673828,0.6,False,France is a country in Western Europe
+467,,21.481199264526367,12.873625755310059,0.68,False,The quick brown fox jumps over the lazy dog
+468,,2.472705364227295,0.9875475764274597,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+469,,3.3719418048858643,1.6286238431930542,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+470,,2.0267319679260254,1.0596015453338623,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Mexico:
+471,,5.2355427742004395,1.8866446018218994,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+472,,3.772294759750366,1.3307937383651733,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Russia:
+473,,4.206399440765381,2.6245524883270264,0.36,True,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Argentina:
+474,,6.809286117553711,2.360342502593994,0.28,True,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+475,,7.037907123565674,3.9669132232666016,0.76,False,Shakespeare wrote thirty seven plays
+476,,9.090126037597656,6.030387878417969,0.64,False,The quick brown fox jumps over the lazy dog
+477,,2.570476770401001,1.2472180128097534,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Japan:
+478,,3.0538272857666016,0.9825389385223389,0.44,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. France:
+479,,3.0928778648376465,1.3656681776046753,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. India:
+480,,11.205939292907715,6.8267645835876465,0.68,False,France is a country in Western Europe
+481,,2.465775728225708,0.954511821269989,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Argentina:
+482,,2.249525547027588,1.2570286989212036,0.36,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Spain:
+483,,13.851330757141113,8.774480819702148,0.64,False,France is a country in Western Europe
+484,,3.1890807151794434,1.8814051151275635,0.8,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Argentina:
+485,,24.215457916259766,12.993186950683594,0.64,False,The quick brown fox jumps over the lazy dog
+486,,1.7973029613494873,0.8222643733024597,0.4,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Brazil:
+487,,2.1409506797790527,0.9933322668075562,0.2,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Argentina:
+488,,3.6597397327423096,1.9848730564117432,0.4,True,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Argentina:
+489,,6.852946758270264,4.395528316497803,0.76,False,Paris is a beautiful city in France
+490,,2.6028084754943848,1.1929703950881958,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+491,,1.8179553747177124,0.7754494547843933,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+492,,2.806096315383911,2.1930313110351562,0.6,False,Germany is known for its engineering
+493,,17.36280632019043,10.105859756469727,0.72,False,Paris is a beautiful city in France
+494,,3.9313838481903076,1.8063479661941528,0.72,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+495,,2.856044292449951,1.562694787979126,0.68,False,The quick brown fox jumps over the lazy dog
+496,,3.155193567276001,1.322848916053772,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+497,,5.264644622802734,1.3489396572113037,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+498,,4.136141777038574,1.2822214365005493,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+499,,1.8619813919067383,1.130719542503357,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Canada:
+500,,2.1073384284973145,1.1662328243255615,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Italy:
+501,,3.220165252685547,1.7710238695144653,0.68,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+502,,15.991517066955566,9.667476654052734,0.68,False,The quick brown fox jumps over the lazy dog
+503,,15.618537902832031,8.85334300994873,0.72,False,France is a country in Western Europe
+504,,5.60389518737793,1.3369992971420288,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Germany:
+505,,5.022164821624756,3.8324437141418457,0.6,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Egypt:
+506,,2.7698514461517334,1.6685757637023926,0.24,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. Argentina:
+507,,16.783329010009766,8.99102783203125,0.8,False,France is a country in Western Europe
+508,,5.911268711090088,3.4370594024658203,0.76,False,The quick brown fox jumps over the lazy dog
+509,,39.99415969848633,21.106182098388672,0.76,False,France is a country in Western Europe
+510,,3.9663140773773193,2.1660115718841553,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
+511,,3.4328885078430176,1.813396692276001,0.28,False,France: Paris. Germany: Berlin. Japan: Tokyo. Egypt: Cairo. China:
