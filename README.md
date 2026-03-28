@@ -142,7 +142,7 @@ If you build on this work:
   title  = {SAE Feature Explorer: Mechanistic Interpretability of
              Country-Capital Recall in GPT-2 Medium},
   author = {Sanka Vaas},
-  year   = {2024},
+  year   = {2026},
   url    = {https://github.com/SankaVaas/sae-feature-explorer}
 }
 ```
